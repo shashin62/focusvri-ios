@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TableFooterView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="48"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QKF-jA-VnM">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="48"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Call first available interpreter" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="304" translatesAutoresizingMaskIntoConstraints="NO" id="cUq-kx-iuH">
+                            <rect key="frame" x="8" y="13" width="304" height="21"/>
+                            <animations/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="cUq-kx-iuH" firstAttribute="leading" secondItem="QKF-jA-VnM" secondAttribute="leading" constant="8" id="9BS-ux-luS"/>
+                        <constraint firstItem="cUq-kx-iuH" firstAttribute="top" secondItem="QKF-jA-VnM" secondAttribute="top" constant="13" id="ZIA-Qx-8kg"/>
+                        <constraint firstAttribute="bottom" secondItem="cUq-kx-iuH" secondAttribute="bottom" constant="14" id="dgf-7V-634"/>
+                        <constraint firstAttribute="trailing" secondItem="cUq-kx-iuH" secondAttribute="trailing" constant="8" id="n2n-yG-UNY"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="QKF-jA-VnM" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Jka-6r-lMI"/>
+                <constraint firstAttribute="bottom" secondItem="QKF-jA-VnM" secondAttribute="bottom" id="SzE-uV-JmP"/>
+                <constraint firstItem="QKF-jA-VnM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ZSq-2P-h9H"/>
+                <constraint firstAttribute="trailing" secondItem="QKF-jA-VnM" secondAttribute="trailing" id="xJA-sf-5IJ"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="footerViewDescriptionLabel" destination="cUq-kx-iuH" id="6jG-Tb-lI1"/>
+            </connections>
+        </view>
+    </objects>
+</document>

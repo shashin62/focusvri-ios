@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MVRIConferenceViewController collectionView:cellForItemAtIndexPath:]:MVRIConferenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.contentSize.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MVRIConferenceViewController zoomIn:]:MVRIConferenceViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MVRIAppointsViewViewController tableView:didSelectRowAtIndexPath:]:MVRIAppointsViewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[myDate timeIntervalSinceNow] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MVRIConferenceViewController controllerDidChangeContent:]:MVRIConferenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrSize.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MVRIHomeViewController viewDidLoad]:MVRIHomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonObject">
+            </PersistentString>
+            <PersistentString
+               value = "jsonObject[@&quot;FirstName&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[MVRIGlobalData sharedInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MVRIConferenceViewController collectionView:didSelectItemAtIndexPath:]:MVRIConferenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.contentSize.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

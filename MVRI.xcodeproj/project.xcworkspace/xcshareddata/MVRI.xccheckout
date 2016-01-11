@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C6FF2F3-4FE1-4276-8C13-BAD7EBE7952C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MVRI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>557C41E4-67A5-423B-BD95-920CEC2DA84A</key>
+		<string>https://git6.projectlocker.com/SCParekh/MVRI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MVRI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>557C41E4-67A5-423B-BD95-920CEC2DA84A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git6.projectlocker.com/SCParekh/MVRI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>557C41E4-67A5-423B-BD95-920CEC2DA84A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>557C41E4-67A5-423B-BD95-920CEC2DA84A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MVRI</string>
+		</dict>
+	</array>
+</dict>
+</plist>

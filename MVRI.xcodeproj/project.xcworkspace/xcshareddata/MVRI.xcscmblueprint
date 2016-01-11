@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BC8E39899A5B3CE28D22A3E61FFB31E4EFA67C94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BC8E39899A5B3CE28D22A3E61FFB31E4EFA67C94" : 0,
+    "E39B4AD3E7FF6E6EC3F80B482A8100724EE3277F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7C6FF2F3-4FE1-4276-8C13-BAD7EBE7952C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BC8E39899A5B3CE28D22A3E61FFB31E4EFA67C94" : "focusvri-ios\/",
+    "E39B4AD3E7FF6E6EC3F80B482A8100724EE3277F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MVRI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FocusVRI\/MVRI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:shashin62\/focusvri-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC8E39899A5B3CE28D22A3E61FFB31E4EFA67C94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:shashin62\/focusvri-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E39B4AD3E7FF6E6EC3F80B482A8100724EE3277F"
+    }
+  ]
+}
